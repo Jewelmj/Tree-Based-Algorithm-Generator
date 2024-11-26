@@ -1,13 +1,11 @@
 Note: for running this application, you have to run the gui_maker.py file. and the input file is input.txt.
 
-About: This is a phone upgrade recomendation, which recommends teh specifications/model you should be looking for the best upgrades with lowest price based on usage data. (like percentage storage used etc)
+About: This project implements an algorithm that converts a user-provided text file into a tree-like structure of functions. Each word in the file represents a function, and spaces denote nested functions, creating a hierarchical relationship. The algorithm processes the text to generate and visualize a structured representation of functions.
 
-Ideation: Now a days phones get damaged and are unsable faster than ever. Thus a phone recomendation system.
+Ideation: Programming can be repetative and a easy way to generate code is woulld be realy helpful.
 
-Time of devolopment: during my first year of B-tech, 2022.
+Time of devolopment: during my second year of B-tech, 2023.
 
-How it works: it uses pandas for data preprocessing. it uses thinker for gui. it uses a man made prediction funciton for predicting new specifications.
+Pros: Helps speed up devolopment for programmers.
 
-Pros: Its a unique tool.
-
-Cons: It uses a man made prediction funciton which can be labor intencive to update/modify.
+Cons: The code used for generating code is hard to read and modify.
